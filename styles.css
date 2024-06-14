@@ -46,10 +46,7 @@ button:hover{
     justify-content: center;
     max-height: 0;
     overflow: hidden;
-    transition: max-height 1cd /Users/sadukaathukorala/Documents/youngMentors/ymtwebdev
-git push -u origin maincd /Users/sadukaathukorala/Documents/youngMentors/ymtwebdev
-git push -u origin maincd /Users/sadukaathukorala/Documents/youngMentors/ymtwebdev
-git push -u origin mains ease-out;
+    transition: max-height 1s ease-out;
 
 }
 p.detail{
